@@ -15,7 +15,7 @@
 Change the license owner and year to create a license copy that's all yours.
 
 ## FAQ
-Can I use they in my project?
+Can I use them in my project?
 > Emm, they are only for joke. If you want to show off, you might as well use WTFPL (DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE—yes, there really is such a badass license).
 
 Why do they have offensive words?
@@ -25,7 +25,8 @@ Why are you writing them?
 > Inspired by the WTFPL, I then messed around and made this Thunder thing.
 
 ## License
-WSIIGPL and WSIIMFPL.
+Dual-licensed under WSIIGPL or WSIIMFPL.
 
 ## Others
-Fun fact: The entire README was machine-translated by me, whether you can understand it or not is up to you.
+The entire README was machine-translated by me, whether you can understand it or not is up to you.
+> Don't forget you're GAY/MOTHERFUCKER!
